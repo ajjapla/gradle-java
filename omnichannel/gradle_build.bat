@@ -5,6 +5,6 @@ SET PATH=%PATH%;C:\Anil\Gradle\gradle-3.4.1\bin;
 REM gradle build --stacktrace
 REM gradle wrapper --gradle-version 3.4.1
 
-gradlew build
+gradlew build --stacktrace
 
 pause
